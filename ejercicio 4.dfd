@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+10
+por, valor
+6
+2
+9
+descuento
+15
+(valor*por)/100
+5
+total
+15
+valor-descuento
+4
+1
+47
+' Hola señor usuario usted debe pagar: ', total
+1
